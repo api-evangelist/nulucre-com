@@ -1,4 +1,4 @@
-# nulucre-com
+# Nulucre
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,100 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-nulucre-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://nulucre.com/
+Nulucre provides a reputation oracle and fact verification platform that leverages on‑chain data, DeFi analytics, and AI to verify financial claims. It offers APIs for reputation scoring, claim verification, and data retrieval across blockchain networks, aiming to bring trust to decentralized finance and broader digital interactions. The service includes free health checks, paid verification endpoints, and integrates with Stellar, EVM, and other protocols.
+
+**Areas:** Reputation · Oracle · Fact-Verification · Blockchain · DeFi
+
+## Nulucre on APIs.io
+
+Everything profiled for Nulucre is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nulucre-com/](https://apis.io/providers/nulucre-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Nulucre Reputation API](https://apis.io/apis/nulucre-com/nulucre-com-reputation-api/) — The Reputation API from Nulucre — 3 operation(s) for reputation.
+- [Nulucre Verify API](https://apis.io/apis/nulucre-com/nulucre-com-verify-api/) — The Verify API from Nulucre — 1 operation(s) for verify.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Nulucre Agentic Access](https://apis.io/agentic-access/nulucre-com/nulucre-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Nulucre API Rules](https://apis.io/rules/nulucre-com/nulucre-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Nulucre Domain Security](https://apis.io/security/nulucre-com/nulucre-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nulucre.com/)
+- [Terms of service](https://nulucre.com/tos.html)
+
+## API Evangelist rating
+
+**Kin Score 23.5** — emerging · rubric 0.28.0 · scored 2026-11-20
+
+| Facet | Score |
+|---|---|
+| Discoverability | 53.6 |
+| Contract quality | 38.3 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 8.5 |
+
+**Agent readiness 31.2** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 8.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nulucre-com/](https://apis.io/providers/nulucre-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Nulucre: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nulucre-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
